@@ -19,6 +19,6 @@ If you're daring enough to want to retrain the neural network, you can check out
 All of the files in this repository are released subject to the license used for the original Tensorflow repository: Apache 2.0. 
 
 # Notes
-Please don't send me angry emails. If you think this work was worthwhile, or deserves further development or rewriting, you are welcome to send
-	- E-mail: lossless.solutions@gmail.com
-	- Ether: 0x12531e612937c803dc146529684a39d20121bec0
+Please don't send me angry emails. If you think this work was worthwhile, or deserves further development or rewriting, you are welcome to send:
+- E-mail: lossless.solutions@gmail.com
+- Ether: 0x12531e612937c803dc146529684a39d20121bec0
