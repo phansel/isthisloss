@@ -11,7 +11,7 @@ python3 retrain.py \
   --tfhub_module="https://tfhub.dev/google/imagenet/mobilenet_v1_050_224/quantops/feature_vector/1" \
   --model_dir=tf82/models/ \
   --summaries_dir=tf82/training_summaries/"${ARCHITECTURE}" \
-  --flip_left_right True \
+  --flip_left_right False \
   --random_scale=30 \
   --output_graph=tf82/retrained_graph.pb \
   --output_labels=tf82/retrained_labels.txt \
