@@ -9,7 +9,7 @@ Dependencies:
 - Python (3), pip
 - Tensorflow (>1.8), specifically installed via compilation from source.
 - Tensorflow Hub for retraining the Mobilenet. Warning: this may ruin your Tensorboard installation if you have one.
-- Everything else mentioned here: https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite/java/demo
+- Everything else mentioned here: https://github.com/tensorflow/examples/tree/master/lite/examples/image_classification/android
 
 Copy the "main" directory from this repository into or alongside the //tensorflow/contrib/lite/java/demo/app/src/main folder in your installation of tensorflow. Then run build.bash. The .tflite in the repository should be from the latest app, and should work.
 
