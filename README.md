@@ -21,4 +21,3 @@ All of the files in this repository are released subject to the license used for
 # Notes
 Please don't send me angry emails. If you think this work was worthwhile, or deserves further development or rewriting, you are welcome to send:
 - E-mail: lossless.solutions@gmail.com
-- Ether: 0x12531e612937c803dc146529684a39d20121bec0
